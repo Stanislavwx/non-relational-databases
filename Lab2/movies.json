@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "rating": 8.8,
+    "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+    "director_id": 1
+  },
+  {
+    "title": "Parasite",
+    "year": 2019,
+    "genre": "Thriller",
+    "rating": 8.5,
+    "box_office": {
+      "budget_usd": 11400000,
+      "worldwide_gross_usd": 266000000,
+      "currency": "USD"
+    },
+    "director_id": 2
+  },
+  {
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Action",
+    "rating": 9.0,
+    "available": true,
+    "director_id": 1
+  }
+]

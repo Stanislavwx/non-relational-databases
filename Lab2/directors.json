@@ -1,0 +1,27 @@
+[
+  {
+    "director_id": 1,
+    "name": "Christopher Nolan",
+    "birth_year": 1970,
+    "nationality": "British-American",
+    "notable_films": ["Inception", "Interstellar", "The Dark Knight", "Oppenheimer"]
+  },
+  {
+    "director_id": 2,
+    "name": "Bong Joon-ho",
+    "birth_year": 1969,
+    "nationality": "South Korean",
+    "awards": {
+      "oscar": true,
+      "oscar_year": 2020,
+      "palme_dor": true
+    }
+  },
+  {
+    "director_id": 3,
+    "name": "Denis Villeneuve",
+    "birth_year": 1967,
+    "nationality": "Canadian",
+    "active": true
+  }
+]
