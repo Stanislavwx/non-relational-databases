@@ -36,7 +36,7 @@ Lab2/
 | actors | array | Список акторів (масив) |
 | box_office | object | Касові збори (вкладений документ) |
 | director_id | number | ID режисера |
-
+я
 ### directors
 
 | Поле | Тип | Опис |
@@ -77,7 +77,7 @@ sudo systemctl enable mongod
 ```bash
 sudo dnf install -y mongodb-mongosh
 ```
-
+я
 5. Перевірити версію:
 ```bash
 mongosh --version

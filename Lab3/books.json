@@ -1,0 +1,187 @@
+[
+  {
+    "_id": "6abf52a9ecd73bee4f6a8140",
+    "title": "Кобзар",
+    "year": 1840,
+    "genres": [
+      "поезія",
+      "класика"
+    ],
+    "pages": 115,
+    "price": 350,
+    "in_stock": true,
+    "author": {
+      "name": "Тарас Шевченко",
+      "country": "Україна",
+      "birth_year": 1814
+    },
+    "author_id": "650000000000000000000001",
+    "updated_at": "2026-10-02T06:43:54.072Z",
+    "antique": true
+  },
+  {
+    "_id": "6abf52a9ecd73bee4f6a8141",
+    "title": "Гайдамаки",
+    "year": 1841,
+    "genres": [
+      "поезія",
+      "історична поема"
+    ],
+    "pages": 140,
+    "price": 210,
+    "in_stock": true,
+    "author": {
+      "name": "Тарас Шевченко",
+      "country": "Україна",
+      "birth_year": 1814
+    },
+    "author_id": "650000000000000000000001",
+    "antique": true
+  },
+  {
+    "_id": "6abf52a9ecd73bee4f6a8142",
+    "title": "Захар Беркут",
+    "year": 1883,
+    "genres": [
+      "історична повість",
+      "класика"
+    ],
+    "pages": 240,
+    "price": 280,
+    "in_stock": true,
+    "author": {
+      "name": "Іван Франко",
+      "country": "Україна",
+      "birth_year": 1856
+    },
+    "author_id": "650000000000000000000002",
+    "antique": true
+  },
+  {
+    "_id": "6abf52a9ecd73bee4f6a8143",
+    "title": "Борислав сміється",
+    "year": 1881,
+    "genres": [
+      "роман",
+      "соціальна проза"
+    ],
+    "pages": 310,
+    "price": 295,
+    "in_stock": false,
+    "author": {
+      "name": "Іван Франко",
+      "country": "Україна",
+      "birth_year": 1856
+    },
+    "author_id": "650000000000000000000002",
+    "antique": true
+  },
+  {
+    "_id": "6abf52a9ecd73bee4f6a8144",
+    "title": "Лісова пісня",
+    "year": 1911,
+    "genres": [
+      "драма-феєрія",
+      "фольклор"
+    ],
+    "pages": 160,
+    "price": 240,
+    "in_stock": true,
+    "author": {
+      "name": "Леся Українка",
+      "country": "Україна",
+      "birth_year": 1871
+    },
+    "author_id": "650000000000000000000003"
+  },
+  {
+    "_id": "6abf52a9ecd73bee4f6a8145",
+    "title": "Тіні забутих предків",
+    "year": 1911,
+    "genres": [
+      "повість",
+      "фольклор"
+    ],
+    "pages": 180,
+    "price": 260,
+    "in_stock": true,
+    "author": {
+      "name": "Михайло Коцюбинський",
+      "country": "Україна",
+      "birth_year": 1864
+    },
+    "author_id": "650000000000000000000004"
+  },
+  {
+    "_id": "6abf52a9ecd73bee4f6a8146",
+    "title": "Місто",
+    "year": 1928,
+    "genres": [
+      "роман",
+      "модернізм",
+      "урбаністика"
+    ],
+    "pages": 300,
+    "price": 350,
+    "in_stock": true,
+    "author": {
+      "name": "Валер'ян Підмогильний",
+      "country": "Україна",
+      "birth_year": 1901
+    },
+    "author_id": "650000000000000000000005"
+  },
+  {
+    "_id": "6abf52a9ecd73bee4f6a8147",
+    "title": "Тигролови",
+    "year": 1944,
+    "genres": [
+      "пригодницький роман",
+      "класика"
+    ],
+    "pages": 320,
+    "price": 330,
+    "in_stock": true,
+    "author": {
+      "name": "Іван Багряний",
+      "country": "Україна",
+      "birth_year": 1906
+    },
+    "author_id": "650000000000000000000006"
+  },
+  {
+    "_id": "6abf52a9ecd73bee4f6a8148",
+    "title": "Земля",
+    "year": 1902,
+    "genres": [
+      "соціально-психологічна повість"
+    ],
+    "pages": 340,
+    "price": 275,
+    "in_stock": false,
+    "author": {
+      "name": "Ольга Кобилянська",
+      "country": "Україна",
+      "birth_year": 1863
+    },
+    "author_id": "650000000000000000000007"
+  },
+  {
+    "_id": "6abf52a9ecd73bee4f6a8149",
+    "title": "Маруся Чурай",
+    "year": 1979,
+    "genres": [
+      "історичний роман у віршах",
+      "поезія"
+    ],
+    "pages": 220,
+    "price": 390,
+    "in_stock": true,
+    "author": {
+      "name": "Ліна Костенко",
+      "country": "Україна",
+      "birth_year": 1930
+    },
+    "author_id": "650000000000000000000010"
+  }
+]
